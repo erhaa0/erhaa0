@@ -6,10 +6,6 @@
 
 ---
 
-### stats
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=erhaa0&theme=midnight-purple&hide_border=true&background=0e0e1a&stroke=1e1e30&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=6b6b8a&dates=4a4a6a&border_radius=12" />
 
 <br/>
@@ -22,25 +18,15 @@
 
 ---
 
-### contributions
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erhaa0/erhaa0/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erhaa0/erhaa0/output/github-contribution-grid-snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/erhaa0/erhaa0/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-<br/>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erhaa0&bg_color=09090f&color=8b5cf6&line=6366f1&point=c4b5fd&area=true&area_color=1a0a3a&hide_border=true&radius=8)](https://github.com/erhaa0)
-
-<br/><br/>
-
 ---
 
-### stack & tools
+---
 
 <br/>
 
