@@ -1,108 +1,72 @@
-<!--  erha's github profile  -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09090f,50:1a0a3a,100:09090f&height=220&section=header&text=erha.&fontSize=90&fontColor=c4b5fd&animation=fadeIn&fontAlignY=65&desc=software+engineer+·+frontend+·+always+learning&descSize=13&descColor=6b6b8a&descAlignY=82" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09090f,50:1a0a3a,100:09090f&height=240&section=header&text=erha.&fontSize=100&fontColor=c4b5fd&animation=fadeIn&fontAlignY=68&desc=software+engineer+·+frontend+·+always+learning&descSize=14&descColor=6b6b8a&descAlignY=83" width="100%" />
 
 <br/>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="62%" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=13&pause=1800&color=8B5CF6&center=false&vCenter=true&width=380&height=28&lines=hi+i'm+erha+👋;software+engineering+student;i+build+things+for+the+web" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&pause=1500&color=8B5CF6&center=true&vCenter=true&width=440&lines=building+things+that+work+and+look+good;frontend+%2F+react+%2F+python+%2F+java+%2F+c%23;software+engineering+student+%40+bahria+uni" />
 
 <br/><br/>
 
-Software engineering student. I care about building things that are clean, fast, and actually make sense to use. Mostly living on the frontend, sometimes venturing elsewhere.
+---
+
+### stats
 
 <br/>
 
-</td>
-<td width="4%"></td>
-<td width="34%" valign="top" align="center">
+<img src="https://streak-stats.demolab.com?user=erhaa0&theme=midnight-purple&hide_border=true&background=0e0e1a&stroke=1e1e30&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=6b6b8a&dates=4a4a6a&border_radius=12" />
 
-<img src="https://streak-stats.demolab.com?user=erhaa0&theme=midnight-purple&hide_border=true&background=0e0e1a&stroke=1e1e30&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=6b6b8a&dates=4a4a6a&border_radius=12" width="100%"/>
+<br/>
 
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=erhaa0&show_icons=true&hide_border=true&bg_color=0e0e1a&title_color=8b5cf6&icon_color=a78bfa&text_color=c4b5fd&hide=stars,contribs&rank_icon=github&count_private=true" />
+&nbsp;
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=erhaa0&layout=compact&hide_border=true&bg_color=0e0e1a&title_color=8b5cf6&text_color=c4b5fd&langs_count=5" />
+
+<br/><br/>
+
+---
+
+### contributions
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/erhaa0/erhaa0/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://github.com/erhaa0/erhaa0/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/erhaa0/erhaa0/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://github.com/erhaa0/erhaa0/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 <br/>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="31%" valign="top">
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erhaa0&bg_color=09090f&color=8b5cf6&line=6366f1&point=c4b5fd&area=true&area_color=1a0a3a&hide_border=true&radius=8)](https://github.com/erhaa0)
 
-**`stack`**
+<br/><br/>
 
-```
-React       ████████░░  
-HTML / CSS  █████████░  
-Python      ██████░░░░  
-Java        █████░░░░░  
-C#          ████░░░░░░  
-```
+---
 
-</td>
-<td width="3%"></td>
-<td width="33%" valign="top" align="center">
-
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=erhaa0&show_icons=true&hide_border=true&bg_color=0e0e1a&title_color=8b5cf6&icon_color=a78bfa&text_color=c4b5fd&hide=stars,contribs&rank_icon=github&count_private=true" width="100%"/>
-
-</td>
-<td width="3%"></td>
-<td width="30%" valign="top" align="center">
-
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=erhaa0&layout=compact&hide_border=true&bg_color=0e0e1a&title_color=8b5cf6&text_color=c4b5fd&langs_count=5" width="100%"/>
-
-</td>
-</tr>
-</table>
+### stack & tools
 
 <br/>
 
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=erhaa0&bg_color=09090f&color=8b5cf6&line=6366f1&point=c4b5fd&area=true&area_color=1a0a3a&hide_border=true&radius=8)](https://github.com/erhaa0)
+![React](https://img.shields.io/badge/React-0e0e1a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-0e0e1a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0e0e1a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/Python-0e0e1a?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0e0e1a?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C#](https://img.shields.io/badge/C%23-0e0e1a?style=for-the-badge&logo=c-sharp&logoColor=9b59b6)
 
 <br/>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="48%" valign="top">
+![VS Code](https://img.shields.io/badge/VS%20Code-0e0e1a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-0e0e1a?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0e0e1a?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0e0e1a?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-0e0e1a?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-**`tools`**
+<br/><br/>
 
-![VS Code](https://img.shields.io/badge/VS%20Code-1e1e2e?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1e1e2e?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1e1e2e?style=flat-square&logo=figma&logoColor=F24E1E)
-![Postman](https://img.shields.io/badge/Postman-1e1e2e?style=flat-square&logo=postman&logoColor=FF6C37)
+---
 
-</td>
-<td width="4%"></td>
-<td width="48%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09090f,50:1a0a3a,100:09090f&height=100&section=footer&animation=fadeIn&reversal=true" width="100%" />
 
-**`right now`**
-
-- going deeper into React patterns
-- figuring out how AI fits into dev workflows
-- building things, breaking things, fixing things
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09090f,50:1a0a3a,100:09090f&height=80&section=footer&animation=fadeIn&reversal=true" width="100%"/>
 </div>
